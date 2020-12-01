@@ -51,12 +51,6 @@ a:hover{
  .pic{
    width: 15%;
  }
- .namaste{
-   width: 3%;
-   position: absolute;
-   right: 560px;
-   top: 156%;
- }
  .quote{
    font-family: 'Major Mono Display', monospace;
  }
