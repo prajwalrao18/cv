@@ -72,12 +72,12 @@ a:hover{
 }
 .cloud{
   position: absolute;
-  left: 200px;
+  right: 200px;
   top: 100px;
 }
 .Cloud{
   position: absolute;
-  right: 300px;
+  left: 300px;
   top: 300px;
 }
 .skill-row{
